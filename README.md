@@ -46,6 +46,6 @@ Alongside freelance work, I run a **JavaScript/React workshop** as a Frontend In
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="linkedin.com/in/hagerkhaledabdallah" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="/linkedin.com/in/hagerkhaledabdallah" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:hager.khaled.abdallah@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
