@@ -26,20 +26,20 @@ Alongside freelance work, I run a **JavaScript/React workshop** as a Frontend In
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hagerkhaled-hk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagerkhaled-hk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hagerkhaled-hk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- **[BlueBerry – E-Commerce Platform](https://github.com/YOUR-GITHUB-USERNAME/BlueBerry)** — React.js e-commerce app with cart, wishlist, product comparison, and sort/filter, built with Axios, React-Bootstrap, Framer Motion, and Swiper.js.
-- **[Collaborative E-Commerce Platform](https://github.com/YOUR-GITHUB-USERNAME/exclusive)** — Led frontend development with auth, wishlist, Stripe payments, and an admin dashboard with a "Demo Mode" for backend-independent showcasing.
+- **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js e-commerce app with cart, wishlist, product comparison, and sort/filter, built with Axios, React-Bootstrap, Framer Motion, and Swiper.js.
+- **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led frontend development with auth, wishlist, Stripe payments, and an admin dashboard with a "Demo Mode" for backend-independent showcasing.
 
 ---
 
