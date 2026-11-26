@@ -25,12 +25,13 @@ I also teach as a Frontend Instructor, because explaining a concept clearly is o
 
 ---
 
+
 ### 📌 Featured Projects
 
-
-- **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led the frontend (React, MUI) with auth, wishlist, Stripe payments, and an admin dashboard with a Demo Mode.
-- **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js store with cart, wishlist, product comparison, and sort/filter.
+- **HR & Workforce Management System** ([Mockup Screens](https://drive.google.com/drive/folders/1E0dW1vIRRs7xkEB4WNDUE829lpBtTUbq)) — Production system that replaced WhatsApp groups and Excel for a marketing company: attendance, tasks, reports, approvals and real-time notifications. PostgreSQL with Row Level Security, database-enforced 2FA, and multi-shift attendance logic in PL/pgSQL, connected to a Next.js UI (freelance project).
 - **MedConnect API** ([Docs](https://documenter.getpostman.com/view/50325886/2sBXijKXZp#b5393082-b769-4323-b889-1c2ce88cde7a) · [Repo](https://github.com/hagertestingacc-lab/medConnectBackend)) — Multi-role Laravel Sanctum REST API (Doctors, Suppliers, Admins) for a medical supplies B2B platform, with OTP verification, Pusher real-time chat and TiDB Cloud (graduation project).
+- **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led the frontend (React, MUI) in a Jira-managed Scrum team: auth (Google OAuth), wishlist, Stripe payments, and an admin dashboard with a Demo Mode.
+- **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js store with cart, wishlist, product comparison, and sort/filter.
 
 ---
 
