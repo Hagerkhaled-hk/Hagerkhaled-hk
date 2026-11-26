@@ -1,25 +1,36 @@
 <h1 align="center">Hi 👋, I'm Hager Khaled</h1>
-<h3 align="center">Frontend Developer | Turning ideas into clean, interactive interfaces</h3>
+<h3 align="center">Full-Stack Web Developer | Building dynamic, responsive web applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+React+%26+Next.js;CS+Graduate+%40+Zagazig+University;Frontend+Instructor+%40+GDG+On-Campus;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%26+Next.js+%7C+Laravel+%7C+FastAPI;CS+Graduate+%40+Zagazig+University;Frontend+Instructor+%40+GDG+On-Campus" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Computer Science graduate from Zagazig University (GPA 3.8) who fell in love with turning static designs into interfaces that actually *feel* good to use. I build with **React.js**, **Next.js**, and **TypeScript**, and I care just as much about clean, maintainable code as I do about the pixel-perfect details users notice.
+I'm a dedicated Full-Stack Web Developer and Computer Science graduate from Zagazig University (GPA 3.82, Excellent with Honors). I love creating dynamic, responsive web applications, and I'm always looking for opportunities to grow in both front-end and back-end development.
 
-Alongside freelance work, I run a **JavaScript/React workshop** as a Frontend Instructor — because explaining a concept clearly is one of the fastest ways to master it yourself. I'm currently looking to grow further as a **Junior Frontend Developer**, bringing curiosity, consistency, and a strong CS foundation (C++, Data Structures, Algorithms) to every project I touch.
+I build interfaces with **React.js**, **Next.js** and **TypeScript**, and APIs and databases with **Laravel**, **PostgreSQL** and **MySQL**. I recently delivered a production HR system that replaced WhatsApp groups and Excel sheets, and I'm now learning **FastAPI** and **Angular**.
+
+I also teach as a Frontend Instructor, because explaining a concept clearly is one of the fastest ways to master it.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,bootstrap,materialui,redux,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,tailwind,materialui,redux,php,laravel,py,fastapi,postgres,mysql,supabase,postman,git,vercel" />
 </p>
+
+---
+
+### 📌 Featured Projects
+
+
+- **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led the frontend (React, MUI) with auth, wishlist, Stripe payments, and an admin dashboard with a Demo Mode.
+- **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js store with cart, wishlist, product comparison, and sort/filter.
+- **[Developers.com API](https://documenter.getpostman.com/view/50325886/2sBXijKXZp#b5393082-b769-4323-b889-1c2ce88cde7a)** — Multi-role Laravel Sanctum REST API for a medical supplies B2B platform (graduation project).
 
 ---
 
@@ -29,17 +40,6 @@ Alongside freelance work, I run a **JavaScript/React workshop** as a Frontend In
   <img src="https://github-readme-stats.vercel.app/api?username=Hagerkhaled-hk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagerkhaled-hk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hagerkhaled-hk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-- **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js e-commerce app with cart, wishlist, product comparison, and sort/filter, built with Axios, React-Bootstrap, Framer Motion, and Swiper.js.
-- **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led frontend development with auth, wishlist, Stripe payments, and an admin dashboard with a "Demo Mode" for backend-independent showcasing.
 
 ---
 
