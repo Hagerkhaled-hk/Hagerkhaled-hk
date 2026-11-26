@@ -30,7 +30,7 @@ I also teach as a Frontend Instructor, because explaining a concept clearly is o
 
 - **[Collaborative E-Commerce Platform](https://github.com/Hagerkhaled-hk/Exclusive-website)** — Led the frontend (React, MUI) with auth, wishlist, Stripe payments, and an admin dashboard with a Demo Mode.
 - **[BlueBerry – E-Commerce Platform](https://github.com/Hagerkhaled-hk/BlueBerry)** — React.js store with cart, wishlist, product comparison, and sort/filter.
-- **[MEDCONNET.com API](https://documenter.getpostman.com/view/50325886/2sBXijKXZp#b5393082-b769-4323-b889-1c2ce88cde7a)** — Multi-role Laravel Sanctum REST API for a medical supplies B2B platform (graduation project).
+- **MedConnect API** ([Docs](https://documenter.getpostman.com/view/50325886/2sBXijKXZp#b5393082-b769-4323-b889-1c2ce88cde7a) · [Repo](https://github.com/hagertestingacc-lab/medConnectBackend)) — Multi-role Laravel Sanctum REST API (Doctors, Suppliers, Admins) for a medical supplies B2B platform, with OTP verification, Pusher real-time chat and TiDB Cloud (graduation project).
 
 ---
 
